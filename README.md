@@ -1,6 +1,7 @@
 # Hi, I'm Ashish 👋
 
 Technical Product Manager passionate about building AI, cloud, and data products.
+
 Master's in MBA + MS MIS @ University of Arizona.
 
 Previously:
