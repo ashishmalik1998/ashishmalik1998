@@ -1,8 +1,7 @@
 # Hi, I'm Ashish 👋
 
 Technical Product Manager passionate about building AI, cloud, and data products.
-
-Currently pursuing MBA + MS MIS @ University of Arizona.
+Master's in MBA + MS MIS @ University of Arizona.
 
 Previously:
 • Senior PM Intern @ AWS (Amazon Cognito)
