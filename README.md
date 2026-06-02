@@ -18,6 +18,9 @@ AI • Product Strategy • Cloud Systems • Analytics • Enterprise SaaS • 
 🚀 Network Demand IQ  
 Decision intelligence platform helping telecom PMs identify congestion risk, churn impact, and investment ROI.
 
+🏥 Clinical Fleet Dispatcher
+Real-time medical equipment monitoring dashboard that tracks asset failures, quantifies revenue impact, and recommends operational actions for hospital operations teams.
+
 🤖 Agentic AI Drug Safety Platform  
 Multi-agent RAG system analyzing FDA safety data using LLMs.
 
