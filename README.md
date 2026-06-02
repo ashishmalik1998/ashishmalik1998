@@ -15,23 +15,23 @@ AI • Product Strategy • Cloud Systems • Analytics • Enterprise SaaS • 
 
 ## Projects
 
-🚀 Network Demand IQ
+1. 🚀 Network Demand IQ
 
 Decision intelligence platform helping telecom PMs identify congestion risk, churn impact, and investment ROI.
 
-🏥 Clinical Fleet Dispatcher
+2. 🏥 Clinical Fleet Dispatcher
 
 Real-time medical equipment monitoring dashboard that tracks asset failures, quantifies revenue impact, and recommends operational actions for hospital operations teams.
 
-🤖 Agentic AI Drug Safety Platform
+3. 🤖 Agentic AI Drug Safety Platform
 
 Multi-agent RAG system analyzing FDA safety data using LLMs.
 
-📈 Stock Intelligence Platform
+4. 📈 Stock Intelligence Platform
 
 Machine learning platform combining market and macroeconomic signals for investment analysis.
 
-📡 Telecom Network Operations Platform (CNOPS)
+5. 📡 Telecom Network Operations Platform (CNOPS)
 
 Enterprise telecom platform supporting 97,500+ sites and 22M+ users.
 
